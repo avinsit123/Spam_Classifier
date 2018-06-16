@@ -10,3 +10,4 @@ Step 1:Preprocessing->In processEmail.m,the email preprocessing and normalizatio
 
 Step 2:Mapping->All the words are mapped to their respective indices in the dictionary file Vocab.txt.Check processEmail.m
 
+Project Done as a part of Coursera's Machine Learning course.
